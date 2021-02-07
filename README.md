@@ -10,3 +10,4 @@ evans -r repl
 
 #Cobra
 cobra init --pkg-name codepix
+cobra add kakfa
