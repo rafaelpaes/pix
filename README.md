@@ -11,3 +11,6 @@ evans -r repl
 #Cobra
 cobra init --pkg-name codepix
 cobra add kakfa
+
+#Kafka
+kafka-topics --list --bootstrap-server=localhost:9092
